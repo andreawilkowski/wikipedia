@@ -1,0 +1,19 @@
+.jumbotron {
+  width: 100%;
+  height:150px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  color: inherit;
+  background-color: #eee;
+  padding-left: 40px;
+  padding-right: 40px;
+  position: relative;
+}
+
+.sidebar {
+  float:right;
+  position: absolute;
+  top: 40px;
+  right: 70px;
+}
