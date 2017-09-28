@@ -17,3 +17,11 @@
   top: 40px;
   right: 70px;
 }
+
+.panel-success {
+  background-color: #f7fff2;
+}
+
+.panel-info {
+  background-color: #d5e4e8;
+}
